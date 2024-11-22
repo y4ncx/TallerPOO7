@@ -1,3 +1,5 @@
+package Ejercicio1;
+
 public class PruebaEmpleado {
 
     public static void main(String[] args) {

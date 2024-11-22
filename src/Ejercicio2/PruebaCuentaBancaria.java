@@ -1,3 +1,5 @@
+package Ejercicio2;
+
 public class PruebaCuentaBancaria {
     public static void main(String[] args) {
         CuentaBancaria cuenta = new CuentaBancaria("AAA4444", 40000, "Ahorro");

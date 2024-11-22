@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public class Utilidades {
 
     public static double sumar(double a, double b) {

@@ -1,3 +1,5 @@
+package Ejercicio2;
+
 public class CuentaBancaria {
     private String numeroCuenta;
     private double saldo;

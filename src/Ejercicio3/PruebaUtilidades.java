@@ -1,3 +1,5 @@
+package Ejercicio3;
+
 public class PruebaUtilidades {
 
     public static void main(String[] args) {
